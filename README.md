@@ -2,7 +2,19 @@
 
 Minecraft EducationのStage02・04・06を、子どもがMakeCodeのブロックで攻略するための拡張機能です。
 
-> 現在はv0.1.0-alphaです。Minecraft Education実機での初回コンパイルと3ステージ通し試験が終わるまで、本番イベントでは使用しないでください。
+> 現在はv0.1.0-alphaです。MakeCode Webでの読み込み・コンパイル・ブロック変換は確認済みです。Minecraft Educationへ接続した3ステージ通し試験が終わるまで、本番イベントでは使用しないでください。
+
+## 確認済み — 2026-07-21
+
+- GitHub URLをMinecraft MakeCodeの「拡張機能」で検索できる
+- 紫色の`REGALCAST`カテゴリが追加される
+- 専用ブロック8種類が表示される
+- `student-template.ts`がブロック表示へ変換できる
+- Stage02・04・06、やり直し、ヒントの8チャットイベントが残る
+- Stage06に編集可能な「くりかえし」ブロックが2つ表示される
+- MakeCodeブラウザコンソールのコンパイルエラーは0件
+
+未確認は、Minecraft Educationへ接続したAgentの実移動、扉の変化、Stage06ドラゴン演出と転送です。
 
 ## 子どもが使うブロック
 

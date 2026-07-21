@@ -1,0 +1,17 @@
+{
+  "name": "regalcast-missions",
+  "version": "0.1.0",
+  "description": "RegalCast Adventure Stage02, Stage04 and Stage06 visual Agent mission blocks",
+  "license": "MIT",
+  "files": [
+    "main.ts"
+  ],
+  "testFiles": [
+    "test.ts"
+  ],
+  "public": true,
+  "preferredEditor": "tsprj",
+  "dependencies": {
+    "core": "*"
+  }
+}
